@@ -1,0 +1,4 @@
+python -m venv venv
+.\venv\scripts\activate
+pip install google-genai
+pip install python-dotenv
